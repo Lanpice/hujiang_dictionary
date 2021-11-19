@@ -171,7 +171,7 @@ func GetJson(str string) (string, error) {
 }
 
 func FormatString(str string) string {
-	return convertToString(Get(str))
+	return convertToString(GetJson(str))
 }
 
 func convertToString(y []Word) string {
