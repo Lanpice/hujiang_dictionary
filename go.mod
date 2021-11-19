@@ -1,4 +1,4 @@
-module github.com/Asutorufa/hjjp
+module github.com/Lanpice/hujiang_dictionary/
 
 go 1.16
 

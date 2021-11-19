@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/Asutorufa/hjjp/en"
-	"github.com/Asutorufa/hjjp/jp"
-	"github.com/Asutorufa/hjjp/kotobakku"
+	"github.com/Lanpice/hujiang_dictionary/en"
+	"github.com/Lanpice/hujiang_dictionary/jp"
+	"github.com/Lanpice/hujiang_dictionary/kotobakku"
 )
 
 func main() {
